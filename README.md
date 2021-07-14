@@ -5,6 +5,10 @@
 - Following along with Udemy course, The Modern React Bootcamp with Colt Steele
 - Smiley emoji image from Udemy course content, licensed to course instructor for educational use
 - Canva color picker tool, specific palette located [here](https://www.canva.com/colors/color-palettes/fresh-grapefruit/)
+- API info and docs [here](https://icanhazdadjoke.com/api)
+- Font Awesome CDN
+- [Emoji CSS](https://emoji-css.afeld.me/)
+- Shake animation from [CodePen](https://codepen.io/mcvazin/pen/bMOVPy)
 
 -------------------------------------------
 
