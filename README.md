@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Dad Jokes App
+
+## Resources
+
+- Following along with Udemy course, The Modern React Bootcamp with Colt Steele
+- Smiley emoji image from Udemy course content, licensed to course instructor for educational use
+- Canva color picker tool, specific palette located [here](https://www.canva.com/colors/color-palettes/fresh-grapefruit/)
+
+-------------------------------------------
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
